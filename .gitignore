@@ -3,4 +3,7 @@ dataset/MultiNLI
 dataset/SNLI
 encoder/infersent.allnli.pickle
 
+.ipynb_checkpoints/
+__pycache__
+*.pyc
 *.swp
